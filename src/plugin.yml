@@ -1,0 +1,7 @@
+name: BashCommand
+version: 1
+author: halleg
+main: main.Main
+commands:
+  bash:
+  term:
